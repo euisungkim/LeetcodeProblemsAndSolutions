@@ -1,6 +1,6 @@
 # Leetcode Problems and Solutions
 
-Purpose of this repository is to motivate within ourselves to solve leetcode problems daily.
+Purpose of this repository is to motivate ourselves to solve leetcode problems daily.
 
 
 ## Easy Problems
