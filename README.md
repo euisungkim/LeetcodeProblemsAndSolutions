@@ -10,7 +10,7 @@ Purpose of this repository is to motivate within ourselves to solve leetcode pro
 |------------|-----------------------------|------|--------|
 |[Two Sum](1)|[Sol](./1.TwoSum/Daniel.java)|
 
-		[1]: https://leetcode.com/problems/two-sum/description/ "Two Sum"
+	[1]: https://leetcode.com/problems/two-sum/description/ "Two Sum"
 
 ## Medium Problems
 
