@@ -5,9 +5,9 @@ Purpose of this repository is to motivate ourselves to solve leetcode problems d
 
 ## Easy Problems
 
-|                          Problem                            |Daniel| Eric | Arafat |
-|-------------------------------------------------------------|:----:|:----:|:------:|
-|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Sol](./1.TwoSum/Daniel.java)|[Sol] | [Sol] |
+|Problem|Daniel| Date | Eric | Date | Arafat | Date |
+|-------|:----:|:----:|:----:|:----:|:------:|:----:|
+|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Sol#1](./1.TwoSum/Daniel.java)| 09/20/17 | [Sol] |   |  [Sol] |  |
 
 ## Medium Problems
 
