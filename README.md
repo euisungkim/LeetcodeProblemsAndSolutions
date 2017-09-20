@@ -6,7 +6,7 @@ Purpose of this repository is to motivate ourselves to solve leetcode problems d
 ## Easy Problems
 
 |                          Problem                            |Daniel| Eric | Arafat |
-|-------------------------------------------------------------|------|------|--------|
+|-------------------------------------------------------------|:----:|:----:|:------:|
 |[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Sol](./1.TwoSum/Daniel.java)|[Sol] | [Sol] |
 
 ## Medium Problems
