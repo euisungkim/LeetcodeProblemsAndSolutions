@@ -7,7 +7,7 @@ Purpose of this repository is to motivate ourselves to solve leetcode problems d
 
 |Problem|Daniel| Date | Eric | Date | Arafat | Date |
 |-------|:----:|:----:|:----:|:----:|:------:|:----:|
-|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Sol#1](./1.TwoSum/Daniel.java)| 09/20/17 | [Sol] |   |  [Sol] |  |
+|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Sol#1](./1.TwoSum/Daniel.java)| 09/20/17 |[Sol#1](./1.TwoSum/Eric.java)| 09/20/17 |  [Sol] |  |
 
 ## Medium Problems
 
