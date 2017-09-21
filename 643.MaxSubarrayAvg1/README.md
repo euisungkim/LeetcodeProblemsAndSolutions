@@ -4,9 +4,10 @@ Given an array consisting of n integers, find the contiguous subarray of given l
 
 **Example:**
 
->Input: [1,12,-5,-6,50,3], k = 4
->Output: 12.75
->Explanation: Maximum average is (12-5-6+50)/4 = 51/4 = 12.75
+```Input: [1,12,-5,-6,50,3], k = 4
+Output: 12.75
+Explanation: Maximum average is (12-5-6+50)/4 = 51/4 = 12.75
+```
 
 **Note:** 
 
