@@ -2,10 +2,7 @@
 // Name: Eric Kwon
 // Date: September 20th, 2017
 // From: LeetCode
-// Problem:
-// Given an array consisting of n integers, find the contiguous subarray of given length k that has the maximum average value. 
-// And you need to output the maximum average value.
-
+// Problem: #643 Maximum Subarray Average I
 
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
@@ -31,8 +28,6 @@ class Solution {
             inst_average = inst_average + nums[i+k-1];
             max_average = Math.max(max_average, inst_average);
         }
-        
         return max_average / k;
-        
     }
 }

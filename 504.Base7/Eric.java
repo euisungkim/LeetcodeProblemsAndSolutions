@@ -2,9 +2,7 @@
 // Name: Eric Kwon
 // Date: September 20th, 2017
 // From: LeetCode
-// Problem:
-// Given an integer, return its base 7 string representation.
-
+// Problem: #504 Base 7
 
 class Solution {
     public String convertToBase7(int num) {
