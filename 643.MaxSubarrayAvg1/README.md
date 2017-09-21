@@ -14,11 +14,3 @@ Explanation: Maximum average is (12-5-6+50)/4 = 51/4 = 12.75
 
 1. 1 <= k <= n <= 30,000.
 2. Elements of the given array will be in the range [-10,000, 10,000].
-
-## Results
-
-|Name| - |Runtime| - | Percentile |
-|----|:-:|:-----:|:-:|:----------:|
-|Eric||19ms||81.37%|
-|Daniel||-||-|
-|Arafat||-||-|

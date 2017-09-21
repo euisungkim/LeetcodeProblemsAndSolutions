@@ -17,11 +17,3 @@ Output: "-10"
 ```
 
 **Note:** The input will be in range of [-1e7, 1e7].
-
-## Results
-
-|Name| - |Runtime| - | Percentile |
-|----|:-:|:-----:|:-:|:----------:|
-|Eric||17ms||42.84%|
-|Daniel||-||-|
-|Arafat||-||-|

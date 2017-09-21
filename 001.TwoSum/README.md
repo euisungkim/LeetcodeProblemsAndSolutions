@@ -11,11 +11,3 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
-
-## Results
-
-|Name| - |Runtime| - | Percentile |
-|----|:-:|:-----:|:-:|:----------:|
-|Eric||9ms||61.35%|
-|Daniel||-||-|
-|Arafat||-||-|

@@ -28,11 +28,3 @@ Explanation:
 **Note:** 
 1. All elements in nums1 and nums2 are unique.
 2. The length of both nums1 and nums2 would not exceed 1000.
-
-## Results
-
-|Name| - |Runtime| - | Percentile |
-|----|:-:|:-----:|:-:|:----------:|
-|Eric||9ms||77.57%|
-|Daniel||-||-|
-|Arafat||-||-|
