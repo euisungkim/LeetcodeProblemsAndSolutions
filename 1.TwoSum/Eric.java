@@ -1,4 +1,3 @@
-
 // Name: Eric Kwon
 // Date: September 18th, 2017
 // From: LeetCode
