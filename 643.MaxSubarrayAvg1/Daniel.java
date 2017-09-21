@@ -25,12 +25,12 @@ class Solution
     for ( int i = 1; i < len; i++ )
     {
     	/* Example
-					[1,12,-5,-6,50,3]
-					sum[0] = 1+12-5-6;
+	  [1,12,-5,-6,50,3]
+	  sum[0] = 1+12-5-6;
 					
-					// start of for loop
-					sum[1] = sum[0] + nums[4] - nums[0] = (1+12-5-6) + 50 - 1
-					etc.
+	  // start of for loop
+	  sum[1] = sum[0] + nums[4] - nums[0] = (1+12-5-6) + 50 - 1
+	  etc.
     	*/
       sum[i] = sum[i-1] + nums[i+k-1] - nums[i-1];
       // maxSum = (sum[i] > maxSum) ? sum[i] : maxSum;
