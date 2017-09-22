@@ -33,13 +33,13 @@ class Solution {
             if (s.charAt(i) == s.charAt(i+1)) {
                 continuous += map.get(s.charAt(i+1));
             }
-            else if (map.get(s.charAt(i)) < map.get(s.charAt(i+1))) {
+            else if (map.get(s.charAt(i)) < map.get(s.charAt(i + 1))) {
                 result = result - continuous;
-                continuous = map.get(s.charAt(i+1));
+                continuous = map.get(s.charAt(i + 1));
             }
             else {
                 result += continuous;
-                continuous = map.get(s.charAt(i+1));
+                continuous = map.get(s.charAt(i + 1));
             }
         }
         result += continuous;
