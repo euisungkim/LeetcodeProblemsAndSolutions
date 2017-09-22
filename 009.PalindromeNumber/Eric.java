@@ -17,8 +17,8 @@ class Solution {
         
         // Push() and Add() %10 value of the integer (the last digit)
         while (x > 0) {
-            xqueue.add(x%10);
-            xstack.push(x%10);
+            xqueue.add(x % 10);
+            xstack.push(x % 10);
             x = x/10;
         }
         
