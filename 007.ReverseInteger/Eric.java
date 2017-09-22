@@ -21,8 +21,8 @@ class Solution {
         // Add %10 of the input value per each pass, and then divide the value by 10
         while (x > 0) {
             y = y * 10;
-            y += (x%10);
-            x = x/10;
+            y += (x % 10);
+            x = x / 10;
         }
         
         // If original input is negative, turn the result back to negative
