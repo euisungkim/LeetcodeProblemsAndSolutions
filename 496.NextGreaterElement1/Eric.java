@@ -21,7 +21,7 @@ class Solution {
         // Scan through the subarray and fetch the index of the value on full array        
         for (int i=0 ; i < subSize ; i++) {
             int search = list.get(sub[i]) + 1;
-            Boolean found = false;
+            Boolean found = 0;
 
         // Start from the found index, and compare following indexes for greater values
             while (search < fullSize && (!found)) {
