@@ -5,7 +5,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 
 ## Easy Problems
 
-| No |Problem| - |Daniel| Date | - | Eric | Date | - | Arafat | Date |
+| Q# |Problem| - |Daniel| Date | - | Eric | Date | - | Arafat | Date |
 |:--:|:-----:|:-:|:----:|:----:|:-:|:----:|:----:|:-:|:------:|:----:|
 |#1|[Two Sum](https://leetcode.com/problems/two-sum/description/)||[Sol#1](./001.TwoSum/Daniel.java)|09/20/17||[Sol#1](./001.TwoSum/Eric.java)|09/20/17||[Sol]||
 |#7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)||[Sol]|||[Sol#1](./007.ReverseInteger/Eric.java)|09/21/17||[Sol]||
