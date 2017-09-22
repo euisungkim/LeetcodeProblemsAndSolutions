@@ -24,8 +24,8 @@ class Solution {
         // 'i-1' index immediately left to the target array
         // 'i+k-1' index immediately right to the target array
         for (int i=1 ; i <= (arraySize - k) ; i++) {
-            inst_average = inst_average - nums[i-1];
-            inst_average = inst_average + nums[i+k-1];
+            inst_average = inst_average - nums[i - 1];
+            inst_average = inst_average + nums[i + k - 1];
             max_average = Math.max(max_average, inst_average);
         }
         return max_average / k;
