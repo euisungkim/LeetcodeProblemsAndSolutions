@@ -1,6 +1,7 @@
 # #171 Excel Sheet Column Number
 
 Related to question [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+
 Given a column title as appear in an Excel sheet, return its corresponding column number.
 For example:
 ```
