@@ -9,7 +9,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 |:--:|:-----:|:-:|:----:|:----:|:-:|:----:|:----:|:-:|:------:|:----:|
 |#1|[Two Sum](https://leetcode.com/problems/two-sum/description/)||[Sol#1](./001.TwoSum/Daniel.java)|09/20/17||[Sol#1](./001.TwoSum/Eric.java)|09/20/17||[Sol]||
 |#7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)||[Sol#1](./007.ReverseInteger/Daniel.java)|09/29/17||[Sol#1](./007.ReverseInteger/Eric.java)|09/21/17||[Sol]||
-|#9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)||[Sol]|||[Sol#1](./009.PalindromeNumber/Eric.java)|09/21/17||[Sol]||
+|#9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)||[Sol#1](./009.PalindromeNumber/Daniel.java)|09/29/17||[Sol#1](./009.PalindromeNumber/Eric.java)|09/21/17||[Sol]||
 |#13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)||[Sol]|||[Sol#1](./013.RomanToInteger/Eric.java)|09/22/17||[Sol]||
 |#160|[Intersection of Two LL's](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)||[Sol#1](./160.IntersectionTwoLL/Daniel.java)|09/27/17||[Sol#1](./160.IntersectionTwoLL/Eric.java)|09/27/17||[Sol]||
 |#168|[Excel Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)||[Sol#1](./168.ExcelSheetColumnTitle/Daniel.java)|09/26/17||[Sol#1](./168.ExcelSheetColumnTitle/Eric.java)|09/26/17||[Sol]||
