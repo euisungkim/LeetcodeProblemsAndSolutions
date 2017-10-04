@@ -16,6 +16,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 |#171|[Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)||[Java](./171.ExcelSheetColumnNo/Daniel.java)|09/25/17||[Java](./171.ExcelSheetColumnNo/Eric.java)|09/25/17||[-]||
 |#231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)||[-]|||[C++](./231.PowerOf2/Eric.cpp)|10/03/17||[-]||
 |#303|[Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/description/)||[Java](./303.RangeSumQueryImmutable/Daniel.java)|09/24/17||[Java](./303.RangeSumQueryImmutable/Eric.java)|09/24/17||[-]||
+|#326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)||[-]|||[C++](./326.PowerOf3/Eric.cpp)|10/03/17||[-]||
 |#496|[Next Greater Element #1](https://leetcode.com/problems/next-greater-element-i/description/)||[-]|||[Java](./496.NextGreaterElement1/Eric.java)|09/21/17||[-]||
 |#504|[Base 7](https://leetcode.com/problems/base-7/description/)||[Java](./504.Base7/Daniel.java)|09/20/17||[Java](./504.Base7/Eric.java)|09/20/17||[-]||
 |#643|[Max Subarray Avg #1](https://leetcode.com/problems/maximum-average-subarray-i/description/)||[Java](./643.MaxSubarrayAvg1/Daniel.java)|09/21/17||[Java](./643.MaxSubarrayAvg1/Eric.java)|09/20/17||[-]||
