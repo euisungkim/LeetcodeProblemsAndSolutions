@@ -19,7 +19,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 |#303|[Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/description/)||[Java](./303.RangeSumQueryImmutable/Daniel.java)|09/24/17||[Java](./303.RangeSumQueryImmutable/Eric.java)|09/24/17||[-]||
 |#326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)||[-]|||[C++](./326.PowerOf3/Eric.cpp)|10/03/17||[-]||
 |#342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)||[-]|||[Java](./342.PowerOf4/Eric.cpp)|10/04/17||[-]||
-|#404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)||[Java](./404.SumOfLeftLeaves/Daniel.java)|10/04/17||[-]|||[-]||
+|#404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)||[Java](./404.SumOfLeftLeaves/Daniel.java)|10/04/17||[Java](./404.SumOfLeftLeaves/Eric.java)|10/04/17||[-]||
 |#496|[Next Greater Element #1](https://leetcode.com/problems/next-greater-element-i/description/)||[-]|||[Java](./496.NextGreaterElement1/Eric.java)|09/21/17||[-]||
 |#504|[Base 7](https://leetcode.com/problems/base-7/description/)||[Java](./504.Base7/Daniel.java)|09/20/17||[Java](./504.Base7/Eric.java)|09/20/17||[-]||
 |#643|[Max Subarray Avg #1](https://leetcode.com/problems/maximum-average-subarray-i/description/)||[Java](./643.MaxSubarrayAvg1/Daniel.java)|09/21/17||[Java](./643.MaxSubarrayAvg1/Eric.java)|09/20/17||[-]||
