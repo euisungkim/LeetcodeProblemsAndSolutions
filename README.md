@@ -30,6 +30,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 | No |Problem| - |Daniel| Date | - | Eric | Date | - | Arafat | Date |
 |:--:|:-----:|:-:|:----:|:----:|:-:|:----:|:----:|:-:|:------:|:----:|
 |#228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)||[-]|||[Java](./228.SummaryRanges/Eric.java)|10/04/17||[-]||
-|#304|[Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)||[Java](./304.RangeSumQuery2D/Eric.java)|10/04/17||[Java](./304.RangeSumQuery2D/Eric.java)|10/04/17||[-]||
+|#304|[Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)||[Java](./304.RangeSumQuery2D/Daniel.java)|10/04/17||[Java](./304.RangeSumQuery2D/Eric.java)|10/04/17||[-]||
+|#338|[Counting Bits](hhttps://leetcode.com/problems/counting-bits/description/)||[Java](./338.CountingBits/Daniel.java)|10/04/17||[-]|||[-]||
 
 ## Hard Problems
