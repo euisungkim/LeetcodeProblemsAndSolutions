@@ -7,7 +7,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 
 | No |Problem| - |Daniel| Date | - | Eric | Date | - | Arafat | Date |
 |:--:|:-----:|:-:|:----:|:----:|:-:|:----:|:----:|:-:|:------:|:----:|
-|#1|[Two Sum](https://leetcode.com/problems/two-sum/description/)||[Java](./001.TwoSum/Daniel.java)|09/20/17||[Java](./001.TwoSum/Eric.java)|09/20/17||[-]||
+|#1|[Two Sum](https://leetcode.com/problems/two-sum/description/)||[Java](./001.TwoSum/Daniel.java) / [C++](./001.TwoSum/Daniel.cpp)|09/20/17||[Java](./001.TwoSum/Eric.java)|09/20/17||[-]||
 |#7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)||[Java](./007.ReverseInteger/Daniel.java)|09/29/17||[Java](./007.ReverseInteger/Eric.java)|09/21/17||[-]||
 |#9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)||[Java](./009.PalindromeNumber/Daniel.java)|09/29/17||[Java](./009.PalindromeNumber/Eric.java)|09/21/17||[-]||
 |#13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)||[Java](./013.RomanToInteger/Daniel.java)|07/20/17||[Java](./013.RomanToInteger/Eric.java)|09/22/17||[-]||
