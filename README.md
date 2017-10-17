@@ -7,11 +7,11 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 
 | No |Problem| - |Daniel| Date | - | Eric | Date | - | Arafat | Date |
 |:--:|:-----:|:-:|:----:|:----:|:-:|:----:|:----:|:-:|:------:|:----:|
-|#1|[Two Sum](https://leetcode.com/problems/two-sum/description/)||[Java](./001.TwoSum/Daniel.java) / [C++](./001.TwoSum/Daniel.cpp)|09/20/17||[Java](./001.TwoSum/Eric.java)|09/20/17||[-]||
+|#1|[Two Sum](https://leetcode.com/problems/two-sum/description/)||[Java](./001.TwoSum/Daniel.java)/[C++](./001.TwoSum/Daniel.cpp)|09/20/17||[Java](./001.TwoSum/Eric.java)|09/20/17||[-]||
 |#7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)||[Java](./007.ReverseInteger/Daniel.java)|09/29/17||[Java](./007.ReverseInteger/Eric.java)|09/21/17||[-]||
 |#9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)||[Java](./009.PalindromeNumber/Daniel.java)|09/29/17||[Java](./009.PalindromeNumber/Eric.java)|09/21/17||[-]||
 |#13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)||[Java](./013.RomanToInteger/Daniel.java)|07/20/17||[Java](./013.RomanToInteger/Eric.java)|09/22/17||[-]||
-|#83|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)||[Java](./083.RemoveDuplicatesFromSortedList/Daniel.java)|10/16/17||[-]||[-]||
+|#83|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)||[Java](./083.RemoveDuplicatesFromSortedList/Daniel.java)|10/16/17||[Java](./083.RemoveDuplicatesFromSortedList/Eric.java)|10/16/17||[-]||
 |#160|[Intersection of Two LL's](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)||[Java](./160.IntersectionTwoLL/Daniel.java)|09/27/17||[Java](./160.IntersectionTwoLL/Eric.java)|09/27/17||[-]||
 |#168|[Excel Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)||[Java](./168.ExcelSheetColumnTitle/Daniel.java)|09/26/17||[Java](./168.ExcelSheetColumnTitle/Eric.java)|09/26/17||[-]||
 |#171|[Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)||[Java](./171.ExcelSheetColumnNo/Daniel.java)|09/25/17||[Java](./171.ExcelSheetColumnNo/Eric.java)|09/25/17||[-]||
