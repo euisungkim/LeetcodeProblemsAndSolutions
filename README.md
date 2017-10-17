@@ -17,6 +17,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 |#171|[Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)||[Java](./171.ExcelSheetColumnNo/Daniel.java)|09/25/17||[Java](./171.ExcelSheetColumnNo/Eric.java)|09/25/17||[-]||
 |#191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)||[-]|||[Java](./191.NumberOf1Bits/Eric.java)|10/04/17||[-]||
 |#203|[Remove LL Element](https://leetcode.com/problems/remove-linked-list-elements/description/)||[Java](./203.RemoveLLElement/Daniel.java)|10/13/17||[Java](./203.RemoveLLElement/Eric.java)|10/13/17||[-]||
+|#217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)||[Java](./217.ContainsDuplicate/Daniel.java)|10/16/17||[-]|||[-]||
 |#231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)||[Java](./231.PowerOf2/Daniel.java)|10/08/17||[C++](./231.PowerOf2/Eric.cpp)|10/03/17||[-]||
 |#303|[Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/description/)||[Java](./303.RangeSumQueryImmutable/Daniel.java)|09/24/17||[Java](./303.RangeSumQueryImmutable/Eric.java)|09/24/17||[-]||
 |#326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)||[-]|||[C++](./326.PowerOf3/Eric.cpp)|10/03/17||[-]||
@@ -25,6 +26,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 |#414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)||[C++](./414.ThirdMaximumNumber/Daniel.cpp)|10/12/17||[-]|||[-]||
 |#496|[Next Greater Element #1](https://leetcode.com/problems/next-greater-element-i/description/)||[-]|||[Java](./496.NextGreaterElement1/Eric.java)|09/21/17||[-]||
 |#504|[Base 7](https://leetcode.com/problems/base-7/description/)||[Java](./504.Base7/Daniel.java)|09/20/17||[Java](./504.Base7/Eric.java)|09/20/17||[-]||
+|#541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/)||[Java](./541.ReverseStringII/Daniel.java)|10/16/17||[-]|||[-]||
 |#643|[Max Subarray Avg #1](https://leetcode.com/problems/maximum-average-subarray-i/description/)||[Java](./643.MaxSubarrayAvg1/Daniel.java)|09/21/17||[Java](./643.MaxSubarrayAvg1/Eric.java)|09/20/17||[-]||
 |#682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/)||[Java](./682.BaseballGame/Daniel.java)|10/02/17||[Java](./682.BaseballGame/Eric.java)|10/02/17||[-]||
 
