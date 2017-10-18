@@ -17,7 +17,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 |#171|[Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)||[Java](./171.ExcelSheetColumnNo/Daniel.java)|09/25/17||[Java](./171.ExcelSheetColumnNo/Eric.java)|09/25/17||[-]||
 |#191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)||[-]|||[Java](./191.NumberOf1Bits/Eric.java)|10/04/17||[-]||
 |#203|[Remove LL Element](https://leetcode.com/problems/remove-linked-list-elements/description/)||[Java](./203.RemoveLLElement/Daniel.java)|10/13/17||[Java](./203.RemoveLLElement/Eric.java)|10/13/17||[-]||
-|#217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)||[Java](./217.ContainsDuplicate/Daniel.java)|10/16/17||[Java](./217.ContainsDuplicate/Eric.java)|10/18/17||[-]||
+|#217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)||[Java](./217.ContainsDupe/Daniel.java)|10/16/17||[Java](./217.ContainsDupe/Eric.java)|10/18/17||[-]||
 |#231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)||[Java](./231.PowerOf2/Daniel.java)|10/08/17||[C++](./231.PowerOf2/Eric.cpp)|10/03/17||[-]||
 |#303|[Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/description/)||[Java](./303.RangeSumQueryImmutable/Daniel.java)|09/24/17||[Java](./303.RangeSumQueryImmutable/Eric.java)|09/24/17||[-]||
 |#326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)||[-]|||[C++](./326.PowerOf3/Eric.cpp)|10/03/17||[-]||
