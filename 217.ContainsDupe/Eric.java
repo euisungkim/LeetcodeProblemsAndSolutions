@@ -1,6 +1,6 @@
 
 // Name: Eric Kwon
-// Date: October 4th, 2017
+// Date: October 18th, 2017
 // From: LeetCode
 // Problem: #217 Contains Duplicate
 
