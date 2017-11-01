@@ -24,7 +24,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 |#303|[Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/description/)||[Java](./303.RangeSumQueryImmutable/Daniel.java)|09/24/17||[Java](./303.RangeSumQueryImmutable/Eric.java)|09/24/17||[-]||
 |#326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)||[-]|||[C++](./326.PowerOf3/Eric.cpp)|10/03/17||[-]||
 |#342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)||[-]|||[Java](./342.PowerOf4/Eric.cpp)|10/04/17||[-]||
-|#350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)||[Java](./350.IntersectionOfTwoArraysII/Daniel.java)|10/18/17||[-]|||[-]||
+|#350|[I-Section of 2 Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)||[Java](./350.IntersectionOfTwoArraysII/Daniel.java)|10/18/17||[-]|||[-]||
 |#404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)||[Java](./404.SumOfLeftLeaves/Daniel.java)|10/04/17||[Java](./404.SumOfLeftLeaves/Eric.java)|10/04/17||[-]||
 |#414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)||[C++](./414.ThirdMaximumNumber/Daniel.cpp)|10/12/17||[-]|||[-]||
 |#496|[Next Greater Element #1](https://leetcode.com/problems/next-greater-element-i/description/)||[-]|||[Java](./496.NextGreaterElement1/Eric.java)|09/21/17||[-]||
