@@ -32,6 +32,7 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 |#541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/)||[Java](./541.ReverseStringII/Daniel.java)|10/16/17||[-]|||[-]||
 |#643|[Max Subarray Avg #1](https://leetcode.com/problems/maximum-average-subarray-i/description/)||[Java](./643.MaxSubarrayAvg1/Daniel.java)|09/21/17||[Java](./643.MaxSubarrayAvg1/Eric.java)|09/20/17||[-]||
 |#682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/)||[Java](./682.BaseballGame/Daniel.java)|10/02/17||[Java](./682.BaseballGame/Eric.java)|10/02/17||[-]||
+|#690|[Employee Importance](https://leetcode.com/problems/employee-importance/description/)||[-]|||[Java](./690.EmployeeImportance/Eric.java)|11/06/17||[-]||
 |#697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)||[Java](./697.DegreeOfAnArray/Daniel.java)|10/19/17||[-]|||[-]||
 
 ## Medium Problems
