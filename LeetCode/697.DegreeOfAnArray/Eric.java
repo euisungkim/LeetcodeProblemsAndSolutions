@@ -56,6 +56,5 @@ class Solution {
             result = Math.min(result,b-a+1);
         }
         return result;
-        
     }
 }
