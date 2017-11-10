@@ -43,5 +43,6 @@ Purpose of this repository is to motivate ourselves to solve LeetCode problems d
 |#304|[Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)||[Java](./304.RangeSumQuery2D/Daniel.java)|10/04/17||[Java](./304.RangeSumQuery2D/Eric.java)|10/04/17||[-]||
 |#338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)||[Java](./338.CountingBits/Daniel.java)|10/07/17||[Java](./338.CountingBits/Eric.java)|11/09/17||[-]||
 |#537|[Complex # Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)||[Java](./537.ComplexNoMult/Daniel.java)|11/08/17||[Java](./537.ComplexNoMult/Eric.java)|11/08/17||[-]||
+|#540|[Single Element in SA](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)||[-]|||[Java](./540.SingleElementInSA/Eric.java)|11/10/17||[-]||
 
 ## Hard Problems
